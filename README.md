@@ -1,2 +1,2 @@
-Please check Golden Arduino report for more information.
-[Uploading Golden Arduino.pdf…]()
+Please check [Golden Arduino](https://github.com/JithendraHS/Golden_Arduino/blob/main/Golden%20Arduino.pdf) report for more information.
+
