@@ -1,1 +1,1 @@
-Please check Golden Ardiuno report for more information.
+Please check Golden Arduino report for more information.
